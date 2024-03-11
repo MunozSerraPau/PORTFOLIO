@@ -1,10 +1,10 @@
 # Buscaminas por Terminal
 
-Este proyecto implementa el juego de Buscaminas en Java para ser ejecutado por la terminal.
+Este proyecto implementa el classico juego de Buscaminas en Java para ser ejecutado por la terminal con diferentes opciones de juego.
 
 ## Introducción
 
-El juego de Buscaminas es un clásico juego de mesa en el que el jugador debe descubrir todas las casillas que no contienen minas en un tablero. El objetivo es evitar las casillas con minas y marcarlas con banderas para evitar explotarlas.
+El juego de Buscaminas es un clásico juego de mesa en el que el jugador debe descubrir todas las casillas que no contienen minas en un tablero. El objetivo es evitar las casillas con minas y marcarlas con banderas para evitar explotarlas. Con la finalidad de marcar con banderas 
 
 ## Funcionalidades
 
