@@ -1,16 +1,16 @@
 # 🚀 Mis Proyectos de Programación
 
-¡Hola! Aquí te presento algunos de mis proyectos de programación en diferentes lenguajes. 😊
+¡Hola! Aquí te presento algunos de mis proyectos de programación en diferentes lenguajes.
 
 
 
 ## 🧑‍💻 Proyectos en JAVA
 
-* **Simulador de Cajero Automático**:
+<!-- * **Simulador de Cajero Automático**:
   * *Un simulador de cajero automático en Java que te permite realizar diferentes operaciones bancarias.*
-  * <img src="imagenes/atm_simulator.png" alt="Simulador de Cajero Automático" width="400"/>
+  * <img src="imagenes/atm_simulator.png" alt="Simulador de Cajero Automático" width="400"/> -->
 
-* **Juego de Busca Minas**:
+* [**Juego de Busca Minas**:](https://github.com/MunozSerraPau/PORTFOLIO/tree/main/Proyectos/JAVA/Proyecto1)
   * *El classico juego de Busca Minas en Java, que te permite jugar diferentes niveles de dificultad, podiendo seleccionar la grandaria del tablero.*
   * <img src="imagenes/hangman_game.png" alt="Juego de Ahorcado" width="400"/>
 
@@ -40,7 +40,7 @@
 
 
 
-## 💻 Proyectos en XML / JSON / DTD
+## 💻 Proyectos en XML / JSON / DTD / XQUERY
 
 * **Calculadora de IMC**:
   * Una calculadora de índice de masa corporal (IMC) en JavaScript que te permite calcular tu IMC y mostrar tus resultados.
@@ -61,11 +61,11 @@
   <img src="https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/09/Unity-scaled.jpg" alt="Foto de Unity, juego al estilo Mario Bros" width="400"/>
 
 
-## 🔧 Herramientas y Librerías
+<!-- ## 🔧 Herramientas y Librerías
 
 Aquí te muestro algunas herramientas y librerías que utilizo en mis proyectos:
 
 * **Git y GitHub**: Control de versiones y colaboración en proyectos.
 * **Docker y Docker Compose**: Creación y despliegue de aplicaciones en contenedores.
 * **React y Redux**: Desarrollo de aplicaciones web con JavaScript.
-* **Flask y Django**: Desarrollo de aplicaciones web con Python.
+* **Flask y Django**: Desarrollo de aplicaciones web con Python. -->
