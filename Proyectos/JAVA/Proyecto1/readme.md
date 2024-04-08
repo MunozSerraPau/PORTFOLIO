@@ -42,7 +42,7 @@ La estructura que hemos seguido para poder crear el Busca minas a sigo la siguie
 <img src="https://github.com/MunozSerraPau/PORTFOLIO/blob/main/Proyectos/JAVA/Proyecto1/EstructuraPrograma.png?raw=true" alt="Estructura del codigo" width="250" />
 
 A continuación se muestra un ejemplo del código que tiene la funcionalidad para descubrir una casilla en Java:
-```
+```java
      /**
      Trepitgem la casella seleccionada, depèn d'on caiguis s'acaba el joc, es mostra una sola casella o es
      * mostra una part de caselles al voltant.
@@ -79,7 +79,7 @@ A continuación se muestra un ejemplo del código que tiene la funcionalidad par
 ```
 
 Y su forma recursiva para comprobar los espacios alrededor:
-```
+```java
     /**
      * Fem la comprovació de tot el voltant de la casella que havíem seleccionat
      * @param fila És la fila que volem fer la comprovació perquè té un espai
