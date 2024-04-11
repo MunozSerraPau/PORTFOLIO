@@ -12,7 +12,10 @@
 
 * [**Juego de Busca Minas**:](https://github.com/MunozSerraPau/PORTFOLIO/tree/main/Proyectos/JAVA/Proyecto1)
   * *El classico juego de Busca Minas en Java, que te permite jugar diferentes niveles de dificultad, podiendo seleccionar la grandaria del tablero.*
-  * <img src="imagenes/hangman_game.png" alt="Juego de Ahorcado" width="400"/>
+<p align="center">
+  <img src="https://ubiqum.com/wp-content/uploads/2021/12/learn-java-with-ubiqum-logo.png" alt="Juego de Ahorcado" width="400"/>
+</p>
+
 
 
 
@@ -20,41 +23,37 @@
 
 * **Analizador de Sentimientos en Twitter**:
   * *Un script de Python que utiliza la API de Twitter para analizar el sentimiento de tweets en tiempo real.*
-  <img src="imagenes/twitter_sentiment.png" alt="Analizador de Sentimientos en Twitter" width="400"/>
-
-* **Aplicación de Gestión de Biblioteca**:
-  * *Una aplicación de línea de comandos en Python que te permite gestionar tu biblioteca personal.*
-  <img src="imagenes/library_management.png" alt="Aplicación de Gestión de Biblioteca" width="400"/>
-
+  <img src="https://hoplasoftware.com/wp-content/uploads/2021/07/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySql" width="400"/>
 
 
 ## 🌐 Proyectos en HTML/CSS
 
-* **Portafolio Personal**:
+<!-- * **Portafolio Personal**:
   * Un portafolio personal en HTML y CSS que muestra mis proyectos y habilidades.
   <img src="imagenes/personal_portfolio.png" alt="Portafolio Personal" width="400"/>
 
 * **Landing Page para Restaurante**:
   * Una página de aterrizaje en HTML y CSS para un restaurante ficticio.
   <img src="imagenes/restaurant_landing_page.png" alt="Landing Page para Restaurante" width="400"/>
-
+-->
 
 
 ## 💻 Proyectos en XML / JSON / DTD / XQUERY
 
-* **Calculadora de IMC**:
+<!-- * **Calculadora de IMC**:
   * Una calculadora de índice de masa corporal (IMC) en JavaScript que te permite calcular tu IMC y mostrar tus resultados.
   <img src="imagenes/imc_calculator.png" alt="Calculadora de IMC" width="400"/>
 
 * **Aplicación de Notas**:
   * Una aplicación web en JavaScript que te permite crear, editar y eliminar notas.
   <img src="imagenes/notes_app.png" alt="Aplicación de Notas" width="400"/>
+  -->
 
 
 
 ## 💼 Proyectos en Unity
 
-* **Juego 2D, estilo Mario Bros con boss final**
+* [**Juego 2D, estilo Mario Bros con boss final**](https://github.com/MunozSerraPau/PORTFOLIO/tree/main/Proyectos/UNITY)
   * *Un juego al estilo Mario Bros con 3 enemigos distintos, con ataques personalizados para cada uno de ellos. Incluie un Boss final y una bandera en medio del camino como punto de salvación.
     El poyecto fue creado para un trabajo final, en la assignatura de programacion en 2n de SMX, en el centro Sa Palomera. Se ha creado con Unity y con C#, con animaciones de ataque, salto y correr.
     Para cada enemigo tampien tienen animaciones de movimiento y de atace. El juego es para un solo jugador.*
