@@ -48,8 +48,15 @@ Soy estudiante de DAW con conocimientos de HTML, CSS, Java, XML y MySQL. Me apas
 ### Practicas Portugal - Beja, Portugal
 *05.2022 - 06.2023*
 
-- Realizadas con una Beca de Erasmus+ desde el centro Sa Palomera
-- Crear página Web con WIX por una residencia de estudiantes
+- Realizadas con una Beca de Erasmus+ desde el centro Sa Palomera.
+- Crear página Web con WIX por una residencia de estudiantes.
+
+### Mozo de Almacén Bershka - Palafolls, Cataluña
+*06.2024 - 09.2024*
+
+- Realizar envíos de productos.
+- Descargar camiones.
+- Revisar productos de envío.
 
 
 ## 📚 Educación
