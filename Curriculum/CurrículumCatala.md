@@ -54,6 +54,13 @@ Soc estudiant de DAW amb coneixements d'HTML, CSS, Java, XML, JSON i MySQL. M'ap
 - Realitzades amb una Beca d'Erasmus+ des del centre Sa Palomera
 - Crear pàgina web amb WIX per a una residència d'estudiants
 
+### Mosso de Magatzem Bershka - Palafolls, Catalunya
+*06.2024 - 09.2024*
+
+- Realitzar enviaments de productes.
+- Descarregar camions.
+- Revisar productes d'enviament.
+
 
 
 ## 📚 Educació
